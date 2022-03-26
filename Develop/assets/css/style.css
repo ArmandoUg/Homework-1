@@ -102,6 +102,10 @@ aside {
     max-width: 150px;
 }
 
+.benefit p {
+    margin-bottom: 30px
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
